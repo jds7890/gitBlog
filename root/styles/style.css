@@ -1,3 +1,29 @@
 *{
 	font-family: courier;
 }
+
+body{
+
+}
+
+.home-page{
+	color: #808080;
+	background: #ccc;
+}
+
+.home-page .home-title{
+	color: #000;
+	margin: 200px 40% 100px;
+}
+
+.home-page .welcome-message{
+	margin: 0 30%;
+}
+
+.home-page .under-sign{
+	margin: 0 30%;
+}
+
+.footer-container{
+
+}
