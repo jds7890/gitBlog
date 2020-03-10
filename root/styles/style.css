@@ -13,15 +13,18 @@ body{
 
 .home-page .home-title{
 	color: #000;
-	margin: 200px 40% 100px;
+	margin: 200px 0 100px;
+	text-align: center;
 }
 
 .home-page .welcome-message{
 	margin: 0 30%;
+	text-align: center;
 }
 
 .home-page .under-sign{
-	margin: 0 30%;
+	margin: 0;
+	text-align: center;
 }
 
 .footer-container{
