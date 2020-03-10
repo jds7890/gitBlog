@@ -1,5 +1,7 @@
 *{
 	font-family: courier;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 body{
@@ -9,6 +11,7 @@ body{
 .home-page{
 	color: #808080;
 	background: #ccc;
+	height: 100%;
 }
 
 .home-page .home-title{
@@ -28,5 +31,8 @@ body{
 }
 
 .footer-container{
-
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 20px;
+	margin: 0 0;
 }
